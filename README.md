@@ -24,4 +24,5 @@ The following individual git repositories have been merged here.
 
 + **[cy14b101na linux driver](cpp/lnx-drv-cy14b101na/)**: simple memory mapped device driver
 + **[xcdb](cpp/xcdb/)**: b-tree database management system from scratch
-
++ **[open-ventilator](cpp/open-ventilator/)** Project to write firmware for an open ventilator, based on Medtronic's release of older.  The project was unworkable since the 
+many parts in the schematic were no longer manufacturered, and FDA requirements. 
