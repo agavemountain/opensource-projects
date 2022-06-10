@@ -1,0 +1,2586 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="43.516240069667951" minlon="-96.724554283025739" maxlat="47.355851706779639" maxlon="-92.596652707238462" />
+  </metadata>
+  <wpt lat="44.819002895356391" lon="-94.462326319407453">
+    <name>MCLE WIA 154</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.819002895356391</gpxx:lat>
+      <gpxx:lon>-94.462326319407453</gpxx:lon>
+      <gpxx:y_proj>4963883.4245384634</gpxx:y_proj>
+      <gpxx:x_proj>384384.54667934851</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.548849649892595" lon="-95.836488181365539">
+    <name>LYON WIA 411</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.548849649892595</gpxx:lat>
+      <gpxx:lon>-95.836488181365539</gpxx:lon>
+      <gpxx:y_proj>4936748.4307247819</gpxx:y_proj>
+      <gpxx:x_proj>274692.98866359703</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.073575420028206" lon="-96.029695630502303">
+    <name>MURR WIA 148</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.073575420028206</gpxx:lat>
+      <gpxx:lon>-96.029695630502303</gpxx:lon>
+      <gpxx:y_proj>4884507.6668931702</gpxx:y_proj>
+      <gpxx:x_proj>257394.0395250225</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.004094104907999" lon="-96.359910416155316">
+    <name>PIPE WIA 400</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.004094104907999</gpxx:lat>
+      <gpxx:lon>-96.359910416155316</gpxx:lon>
+      <gpxx:y_proj>4877816.7109003868</gpxx:y_proj>
+      <gpxx:x_proj>230635.76468038169</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.846314813532132" lon="-96.139608832484342">
+    <name>BECK WIA 562N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.846314813532132</gpxx:lat>
+      <gpxx:lon>-96.139608832484342</gpxx:lon>
+      <gpxx:y_proj>5192871.6385605028</gpxx:y_proj>
+      <gpxx:x_proj>260634.08938245961</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.861078845383254" lon="-96.292564337140249">
+    <name>LACQ WIA 669</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.861078845383254</gpxx:lat>
+      <gpxx:lon>-96.292564337140249</gpxx:lon>
+      <gpxx:y_proj>4972792.5948716244</gpxx:y_proj>
+      <gpxx:x_proj>239869.01193746456</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.893553200646906" lon="-96.415710125315982">
+    <name>CLAY WIA 407</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.893553200646906</gpxx:lat>
+      <gpxx:lon>-96.415710125315982</gpxx:lon>
+      <gpxx:y_proj>5198999.734387829</gpxx:y_proj>
+      <gpxx:x_proj>239814.04769545564</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.105638009963499" lon="-94.869734410016164">
+    <name>KAND WIA 250</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.105638009963499</gpxx:lat>
+      <gpxx:lon>-94.869734410016164</gpxx:lon>
+      <gpxx:y_proj>4996385.1700913692</gpxx:y_proj>
+      <gpxx:x_proj>352908.04021538788</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.480843006837333" lon="-95.559265396733039">
+    <name>POPE WIA 180</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.480843006837333</gpxx:lat>
+      <gpxx:lon>-95.559265396733039</gpxx:lon>
+      <gpxx:y_proj>5039553.4717146726</gpxx:y_proj>
+      <gpxx:x_proj>299986.64112476539</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.697762576552662" lon="-96.473803569116797">
+    <name>CLAY WIA 408</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.697762576552662</gpxx:lat>
+      <gpxx:lon>-96.473803569116797</gpxx:lon>
+      <gpxx:y_proj>5177439.9604872195</gpxx:y_proj>
+      <gpxx:x_proj>234426.63597921276</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.960508849356849" lon="-96.114397425669537">
+    <name>BECK WIA 610</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.960508849356849</gpxx:lat>
+      <gpxx:lon>-96.114397425669537</gpxx:lon>
+      <gpxx:y_proj>5205483.5580815924</gpxx:y_proj>
+      <gpxx:x_proj>263060.22969013808</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.045640267207354" lon="-95.900931631186751">
+    <name>BECK WIA 441</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.045640267207354</gpxx:lat>
+      <gpxx:lon>-95.900931631186751</gpxx:lon>
+      <gpxx:y_proj>5214319.445032889</gpxx:y_proj>
+      <gpxx:x_proj>279650.1220062403</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.041009677423396" lon="-95.789599641443232">
+    <name>MURR WIA 397</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.041009677423396</gpxx:lat>
+      <gpxx:lon>-95.789599641443232</gpxx:lon>
+      <gpxx:y_proj>4880210.740284048</gpxx:y_proj>
+      <gpxx:x_proj>276497.98391564144</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.490394392428072" lon="-95.307977648271702">
+    <name>REDW WIA 471</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.490394392428072</gpxx:lat>
+      <gpxx:lon>-95.307977648271702</gpxx:lon>
+      <gpxx:y_proj>4928932.1993503598</gpxx:y_proj>
+      <gpxx:x_proj>316490.5126904237</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.589366621473481" lon="-96.630619387998848">
+    <name>TRAV WIA 138</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.589366621473481</gpxx:lat>
+      <gpxx:lon>-96.630619387998848</gpxx:lon>
+      <gpxx:y_proj>5054837.7865366777</gpxx:y_proj>
+      <gpxx:x_proj>216804.73887114113</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.339389933466826" lon="-95.023107211911054">
+    <name>KAND WIA 248</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.339389933466826</gpxx:lat>
+      <gpxx:lon>-95.023107211911054</gpxx:lon>
+      <gpxx:y_proj>5022643.4401746085</gpxx:y_proj>
+      <gpxx:x_proj>341493.31273007527</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.090829742681606" lon="-95.570718553887232">
+    <name>MURR WIA 146</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.090829742681606</gpxx:lat>
+      <gpxx:lon>-95.570718553887232</gpxx:lon>
+      <gpxx:y_proj>4885173.6951845288</gpxx:y_proj>
+      <gpxx:x_proj>294207.94520288194</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.03672658142083" lon="-95.463987078866154">
+    <name>DOUG WIA 453</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.03672658142083</gpxx:lat>
+      <gpxx:lon>-95.463987078866154</gpxx:lon>
+      <gpxx:y_proj>5101078.9855090193</gpxx:y_proj>
+      <gpxx:x_proj>309336.72493668896</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.199285518550063" lon="-96.225203489623908">
+    <name>LINC WIA 458</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.199285518550063</gpxx:lat>
+      <gpxx:lon>-96.225203489623908</gpxx:lon>
+      <gpxx:y_proj>4899066.0535287308</gpxx:y_proj>
+      <gpxx:x_proj>242285.9078892149</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.469977288274066" lon="-96.40988211573665">
+    <name>LINC WIA 444</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.469977288274066</gpxx:lat>
+      <gpxx:lon>-96.40988211573665</gpxx:lon>
+      <gpxx:y_proj>4929730.6228940338</gpxx:y_proj>
+      <gpxx:x_proj>228780.45103695599</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.940748500631599" lon="-95.320661280441016">
+    <name>DOUG WIA 454</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.940748500631599</gpxx:lat>
+      <gpxx:lon>-95.320661280441016</gpxx:lon>
+      <gpxx:y_proj>5090081.9739601836</gpxx:y_proj>
+      <gpxx:x_proj>320116.28852386068</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.044923400496124" lon="-95.548310691397333">
+    <name>DOUG WIA 445</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.044923400496124</gpxx:lat>
+      <gpxx:lon>-95.548310691397333</gpxx:lon>
+      <gpxx:y_proj>5102195.2410898637</gpxx:y_proj>
+      <gpxx:x_proj>302841.06985410431</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.222519736478802" lon="-96.429557858549231">
+    <name>LINC WIA 470</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.222519736478802</gpxx:lat>
+      <gpxx:lon>-96.429557858549231</gpxx:lon>
+      <gpxx:y_proj>4902308.7377530588</gpxx:y_proj>
+      <gpxx:x_proj>226063.97237632569</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.554471654632664" lon="-96.391680035711246">
+    <name>WILK WIA 308</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.554471654632664</gpxx:lat>
+      <gpxx:lon>-96.391680035711246</gpxx:lon>
+      <gpxx:y_proj>5161245.1181772174</gpxx:y_proj>
+      <gpxx:x_proj>240018.72524424276</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.608661327853603" lon="-95.804832914774778">
+    <name>STEV WIA 209</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.608661327853603</gpxx:lat>
+      <gpxx:lon>-95.804832914774778</gpxx:lon>
+      <gpxx:y_proj>5054394.5417363811</gpxx:y_proj>
+      <gpxx:x_proj>281291.65506590001</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.496960415424056" lon="-96.235704274135415">
+    <name>STEV WIA 361</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.496960415424056</gpxx:lat>
+      <gpxx:lon>-96.235704274135415</gpxx:lon>
+      <gpxx:y_proj>5043251.8588498663</gpxx:y_proj>
+      <gpxx:x_proj>247193.98582236317</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.178117382555385" lon="-95.365907354437041">
+    <name>SWIF WIA 503</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.178117382555385</gpxx:lat>
+      <gpxx:lon>-95.365907354437041</gpxx:lon>
+      <gpxx:y_proj>5005459.4600045066</gpxx:y_proj>
+      <gpxx:x_proj>314109.83126241062</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.610636800902611" lon="-95.526454216473027">
+    <name>YELL WIA 548</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.610636800902611</gpxx:lat>
+      <gpxx:lon>-95.526454216473027</gpxx:lon>
+      <gpxx:y_proj>4942802.668880308</gpxx:y_proj>
+      <gpxx:x_proj>299532.41800423787</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.220229204438184" lon="-95.801161382829207">
+    <name>LYON WIA 403</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.220229204438184</gpxx:lat>
+      <gpxx:lon>-95.801161382829207</gpxx:lon>
+      <gpxx:y_proj>4900148.9062881339</gpxx:y_proj>
+      <gpxx:x_proj>276249.83135964733</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.313836207441788" lon="-94.679932669597861">
+    <name>TODD WIA 440</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.313836207441788</gpxx:lat>
+      <gpxx:lon>-94.679932669597861</gpxx:lon>
+      <gpxx:y_proj>5130288.2861710852</gpxx:y_proj>
+      <gpxx:x_proj>370657.7654594935</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.835966663336755" lon="-95.147936278690011">
+    <name>DOUG WIA 684</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.835966663336755</gpxx:lat>
+      <gpxx:lon>-95.147936278690011</gpxx:lon>
+      <gpxx:y_proj>5078065.0879238965</gpxx:y_proj>
+      <gpxx:x_proj>333191.23676217307</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.127013511154381" lon="-95.550638832778048">
+    <name>MURR WIA 151</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.127013511154381</gpxx:lat>
+      <gpxx:lon>-95.550638832778048</gpxx:lon>
+      <gpxx:y_proj>4889142.7314019082</gpxx:y_proj>
+      <gpxx:x_proj>295940.02681806451</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.803030926552466" lon="-95.836293328290424">
+    <name>NOBL WIA 510</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.803030926552466</gpxx:lat>
+      <gpxx:lon>-95.836293328290424</gpxx:lon>
+      <gpxx:y_proj>4853905.8623598469</gpxx:y_proj>
+      <gpxx:x_proj>271848.36781083181</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.341448323869457" lon="-95.538895555370189">
+    <name>SWIF WIA 514</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.341448323869457</gpxx:lat>
+      <gpxx:lon>-95.538895555370189</gpxx:lon>
+      <gpxx:y_proj>5024017.0397612778</gpxx:y_proj>
+      <gpxx:x_proj>301089.56996954884</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.967200527308755" lon="-94.811347753148894">
+    <name>KAND WIA 254</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.967200527308755</gpxx:lat>
+      <gpxx:lon>-94.811347753148894</gpxx:lon>
+      <gpxx:y_proj>4980901.8592900718</gpxx:y_proj>
+      <gpxx:x_proj>357157.21487709961</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.998319266156933" lon="-94.896561252000467">
+    <name>KAND WIA 236</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.998319266156933</gpxx:lat>
+      <gpxx:lon>-94.896561252000467</gpxx:lon>
+      <gpxx:y_proj>4984512.4701815899</gpxx:y_proj>
+      <gpxx:x_proj>350518.16667111887</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.110485712562713" lon="-95.342330115298736">
+    <name>COTT WIA 163</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.110485712562713</gpxx:lat>
+      <gpxx:lon>-95.342330115298736</gpxx:lon>
+      <gpxx:y_proj>4886811.1712545464</gpxx:y_proj>
+      <gpxx:x_proj>312553.5294708836</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.614053219802393" lon="-96.322587543899274">
+    <name>LINC WIA 224</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.614053219802393</gpxx:lat>
+      <gpxx:lon>-96.322587543899274</gpxx:lon>
+      <gpxx:y_proj>4945448.6852207398</gpxx:y_proj>
+      <gpxx:x_proj>236375.68641270007</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.112435942632402" lon="-95.568164630419417">
+    <name>MURR WIA 149</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.112435942632402</gpxx:lat>
+      <gpxx:lon>-95.568164630419417</gpxx:lon>
+      <gpxx:y_proj>4887567.1855425583</gpxx:y_proj>
+      <gpxx:x_proj>294487.30941792333</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.127989975750275" lon="-96.05071774223839">
+    <name>MURR WIA 144</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.127989975750275</gpxx:lat>
+      <gpxx:lon>-96.05071774223839</gpxx:lon>
+      <gpxx:y_proj>4890613.9477052102</gpxx:y_proj>
+      <gpxx:x_proj>255934.78897996302</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.995551167849897" lon="-95.567308400341759">
+    <name>DOUG WIA 446</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.995551167849897</gpxx:lat>
+      <gpxx:lon>-95.567308400341759</gpxx:lon>
+      <gpxx:y_proj>5096757.0856353994</gpxx:y_proj>
+      <gpxx:x_proj>301194.28999708337</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.56381509340963" lon="-96.367572045979685">
+    <name>WILK WIA 419</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.56381509340963</gpxx:lat>
+      <gpxx:lon>-96.367572045979685</gpxx:lon>
+      <gpxx:y_proj>5162204.0176045215</gpxx:y_proj>
+      <gpxx:x_proj>241910.91005762771</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.731088755135779" lon="-96.223468511965166">
+    <name>YELL WIA 410</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.731088755135779</gpxx:lat>
+      <gpxx:lon>-96.223468511965166</gpxx:lon>
+      <gpxx:y_proj>4958133.4781474099</gpxx:y_proj>
+      <gpxx:x_proj>244755.00621357892</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.258299205890417" lon="-96.33778383892971">
+    <name>LINC WIA 459</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.258299205890417</gpxx:lat>
+      <gpxx:lon>-96.33778383892971</gpxx:lon>
+      <gpxx:y_proj>4905980.7425296046</gpxx:y_proj>
+      <gpxx:x_proj>233556.38636611833</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.661609339071113" lon="-96.465096292461482">
+    <name>CLAY WIA 640</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.661609339071113</gpxx:lat>
+      <gpxx:lon>-96.465096292461482</gpxx:lon>
+      <gpxx:y_proj>5173393.6667453256</gpxx:y_proj>
+      <gpxx:x_proj>234915.3059983479</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.960216799523188" lon="-96.119376017757844">
+    <name>BECK WIA 544</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.960216799523188</gpxx:lat>
+      <gpxx:lon>-96.119376017757844</gpxx:lon>
+      <gpxx:y_proj>5205466.1808172679</gpxx:y_proj>
+      <gpxx:x_proj>262680.1959953467</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.053103269375463" lon="-94.531620952769799">
+    <name>WATO WIA 636</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.053103269375463</gpxx:lat>
+      <gpxx:lon>-94.531620952769799</gpxx:lon>
+      <gpxx:y_proj>4878910.405766556</gpxx:y_proj>
+      <gpxx:x_proj>377313.33509741625</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.139737152203523" lon="-95.11075806520229">
+    <name>KAND WIA 261</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.139737152203523</gpxx:lat>
+      <gpxx:lon>-95.11075806520229</gpxx:lon>
+      <gpxx:y_proj>5000640.0086858571</gpxx:y_proj>
+      <gpxx:x_proj>334045.5911331611</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.345704256023808" lon="-95.026855579425288">
+    <name>KAND WIA 253</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.345704256023808</gpxx:lat>
+      <gpxx:lon>-95.026855579425288</gpxx:lon>
+      <gpxx:y_proj>5023352.3045828287</gpxx:y_proj>
+      <gpxx:x_proj>341217.29416115262</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.445722771109061" lon="-96.493003697995093">
+    <name>WILK WIA 306</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.445722771109061</gpxx:lat>
+      <gpxx:lon>-96.493003697995093</gpxx:lon>
+      <gpxx:y_proj>5149501.6471783258</gpxx:y_proj>
+      <gpxx:x_proj>231717.50495688833</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.365394110705786" lon="-95.660775193794066">
+    <name>LYON WIA 533</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.365394110705786</gpxx:lat>
+      <gpxx:lon>-95.660775193794066</gpxx:lon>
+      <gpxx:y_proj>4915900.2710787794</gpxx:y_proj>
+      <gpxx:x_proj>287987.10217075294</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.866686887192252" lon="-95.198971172721755">
+    <name>COTT WIA 175</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.866686887192252</gpxx:lat>
+      <gpxx:lon>-95.198971172721755</gpxx:lon>
+      <gpxx:y_proj>4859415.6657606335</gpxx:y_proj>
+      <gpxx:x_proj>323304.00253982208</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.419524621700724" lon="-96.178287794921175">
+    <name>LINC WIA 202</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.419524621700724</gpxx:lat>
+      <gpxx:lon>-96.178287794921175</gpxx:lon>
+      <gpxx:y_proj>4923383.5920477258</gpxx:y_proj>
+      <gpxx:x_proj>246983.80450745221</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.402485684264065" lon="-96.276588799756055">
+    <name>LINC WIA 199</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.402485684264065</gpxx:lat>
+      <gpxx:lon>-96.276588799756055</gpxx:lon>
+      <gpxx:y_proj>4921799.7717415458</gpxx:y_proj>
+      <gpxx:x_proj>239082.26421484523</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.183944134297832" lon="-96.233516339127135">
+    <name>NORM WIA 560</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.183944134297832</gpxx:lat>
+      <gpxx:lon>-96.233516339127135</gpxx:lon>
+      <gpxx:y_proj>5230677.8610321367</gpxx:y_proj>
+      <gpxx:x_proj>255025.43527251857</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.504566153630662" lon="-96.386417614975599">
+    <name>LINC WIA 518</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.504566153630662</gpxx:lat>
+      <gpxx:lon>-96.386417614975599</gpxx:lon>
+      <gpxx:y_proj>4933495.1499142377</gpxx:y_proj>
+      <gpxx:x_proj>230806.16477048973</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.224116387938949" lon="-96.258031695487446">
+    <name>LINC WIA 531</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.224116387938949</gpxx:lat>
+      <gpxx:lon>-96.258031695487446</gpxx:lon>
+      <gpxx:y_proj>4901927.7732067276</gpxx:y_proj>
+      <gpxx:x_proj>239772.12323600749</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.513780056613818" lon="-96.31728603635402">
+    <name>LINC WIA 204</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.513780056613818</gpxx:lat>
+      <gpxx:lon>-96.31728603635402</gpxx:lon>
+      <gpxx:y_proj>4934293.0249541281</gpxx:y_proj>
+      <gpxx:x_proj>236343.29860035522</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.431972789778087" lon="-96.279200138292452">
+    <name>LINC WIA 198</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.431972789778087</gpxx:lat>
+      <gpxx:lon>-96.279200138292452</gpxx:lon>
+      <gpxx:y_proj>4925083.5266551888</gpxx:y_proj>
+      <gpxx:x_proj>239005.66008037661</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.83782337554905" lon="-96.311980115283035">
+    <name>LACQ WIA 580</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.83782337554905</gpxx:lat>
+      <gpxx:lon>-96.311980115283035</gpxx:lon>
+      <gpxx:y_proj>4970271.6830993174</gpxx:y_proj>
+      <gpxx:x_proj>238229.61137345678</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.490785986446518" lon="-96.25517936736658">
+    <name>LINC WIA 185</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.490785986446518</gpxx:lat>
+      <gpxx:lon>-96.25517936736658</gpxx:lon>
+      <gpxx:y_proj>4931540.1106682448</gpxx:y_proj>
+      <gpxx:x_proj>241177.7949430476</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.440867078271147" lon="-96.416945284023186">
+    <name>LINC WIA 464</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.440867078271147</gpxx:lat>
+      <gpxx:lon>-96.416945284023186</gpxx:lon>
+      <gpxx:y_proj>4926520.5183891654</gpxx:y_proj>
+      <gpxx:x_proj>228083.41975708376</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.132319281181999" lon="-96.196747994721235">
+    <name>OTTE WIA 578</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.132319281181999</gpxx:lat>
+      <gpxx:lon>-96.196747994721235</gpxx:lon>
+      <gpxx:y_proj>5113717.2578492733</gpxx:y_proj>
+      <gpxx:x_proj>253064.66948185561</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.917589006896357" lon="-95.812973081638191">
+    <name>GRAN WIA 554</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.917589006896357</gpxx:lat>
+      <gpxx:lon>-95.812973081638191</gpxx:lon>
+      <gpxx:y_proj>5088738.2836013669</gpxx:y_proj>
+      <gpxx:x_proj>281865.16732526111</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.828656377823236" lon="-95.579963999680373">
+    <name>YELL WIA 540</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.828656377823236</gpxx:lat>
+      <gpxx:lon>-95.579963999680373</gpxx:lon>
+      <gpxx:y_proj>4967153.9179838942</gpxx:y_proj>
+      <gpxx:x_proj>296054.35539523326</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.581952596837851" lon="-96.196502798101776">
+    <name>STEV WIA 369</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.581952596837851</gpxx:lat>
+      <gpxx:lon>-96.196502798101776</gpxx:lon>
+      <gpxx:y_proj>5052571.2987421565</gpxx:y_proj>
+      <gpxx:x_proj>250633.12515029756</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.647831923123171" lon="-94.463287441664008">
+    <name>MCLE WIA 615</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.647831923123171</gpxx:lat>
+      <gpxx:lon>-94.463287441664008</gpxx:lon>
+      <gpxx:y_proj>4944870.6937930332</gpxx:y_proj>
+      <gpxx:x_proj>383966.70978374034</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.07029928062866" lon="-94.61908025418353">
+    <name>WATO WIA 264</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.07029928062866</gpxx:lat>
+      <gpxx:lon>-94.61908025418353</gpxx:lon>
+      <gpxx:y_proj>4880954.3463452477</gpxx:y_proj>
+      <gpxx:x_proj>370345.07401883084</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.51347071708426" lon="-95.304661134682561">
+    <name>REDW WIA 572</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.51347071708426</gpxx:lat>
+      <gpxx:lon>-95.304661134682561</gpxx:lon>
+      <gpxx:y_proj>4931488.0576983755</gpxx:y_proj>
+      <gpxx:x_proj>316826.52503542131</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.366044805419101" lon="-96.358786161285565">
+    <name>LINC WIA 205</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.366044805419101</gpxx:lat>
+      <gpxx:lon>-96.358786161285565</gpxx:lon>
+      <gpxx:y_proj>4918017.4327386105</gpxx:y_proj>
+      <gpxx:x_proj>232370.46971505324</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.58529070097579" lon="-96.342307547378596">
+    <name>LINC WIA 186</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.58529070097579</gpxx:lat>
+      <gpxx:lon>-96.342307547378596</gpxx:lon>
+      <gpxx:y_proj>4942317.6663693674</gpxx:y_proj>
+      <gpxx:x_proj>234679.99728467592</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.043860567868748" lon="-94.874963507426784">
+    <name>KAND WIA 431</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.043860567868748</gpxx:lat>
+      <gpxx:lon>-94.874963507426784</gpxx:lon>
+      <gpxx:y_proj>4989531.9212153107</gpxx:y_proj>
+      <gpxx:x_proj>352337.60021191451</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.381699343904131" lon="-95.21183049150595">
+    <name>KAND WIA 252</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.381699343904131</gpxx:lat>
+      <gpxx:lon>-95.21183049150595</gpxx:lon>
+      <gpxx:y_proj>5027732.5936162677</gpxx:y_proj>
+      <gpxx:x_proj>326836.38703757629</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.453616726426255" lon="-96.350429688258728">
+    <name>BIGS WIA 136</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.453616726426255</gpxx:lat>
+      <gpxx:lon>-96.350429688258728</gpxx:lon>
+      <gpxx:y_proj>5038804.4849564666</gpxx:y_proj>
+      <gpxx:x_proj>238029.64264530133</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.723112094173807" lon="-96.210069673771116">
+    <name>YELL WIA 523</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.723112094173807</gpxx:lat>
+      <gpxx:lon>-96.210069673771116</gpxx:lon>
+      <gpxx:y_proj>4957205.4341171794</gpxx:y_proj>
+      <gpxx:x_proj>245781.01215439229</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.324799077539922" lon="-96.093393390778886">
+    <name>LINC WIA 218</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.324799077539922</gpxx:lat>
+      <gpxx:lon>-96.093393390778886</gpxx:lon>
+      <gpxx:y_proj>4912602.4455546048</gpxx:y_proj>
+      <gpxx:x_proj>253344.55268690886</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.960290208665185" lon="-96.127210698639743">
+    <name>BECK WIA 543</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.960290208665185</gpxx:lat>
+      <gpxx:lon>-96.127210698639743</gpxx:lon>
+      <gpxx:y_proj>5205498.1075613908</gpxx:y_proj>
+      <gpxx:x_proj>262084.50363188743</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.473924004429101" lon="-96.233825799482133">
+    <name>STEV WIA 362</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.473924004429101</gpxx:lat>
+      <gpxx:lon>-96.233825799482133</gpxx:lon>
+      <gpxx:y_proj>5040686.7373540252</gpxx:y_proj>
+      <gpxx:x_proj>247237.64007801065</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.70561558534304" lon="-96.187723475195128">
+    <name>YELL WIA 629</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.70561558534304</gpxx:lat>
+      <gpxx:lon>-96.187723475195128</gpxx:lon>
+      <gpxx:y_proj>4955192.258671673</gpxx:y_proj>
+      <gpxx:x_proj>247474.56673414781</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.612113259492205" lon="-96.188970374217604">
+    <name>LINC WIA 511</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.612113259492205</gpxx:lat>
+      <gpxx:lon>-96.188970374217604</gpxx:lon>
+      <gpxx:y_proj>4944809.6239904258</gpxx:y_proj>
+      <gpxx:x_proj>246969.03418084598</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.635561717989042" lon="-96.369892202159491">
+    <name>YELL WIA 524</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.635561717989042</gpxx:lat>
+      <gpxx:lon>-96.369892202159491</gpxx:lon>
+      <gpxx:y_proj>4947992.0381024061</gpxx:y_proj>
+      <gpxx:x_proj>232721.14700982734</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.024683022439746" lon="-95.443015706029584">
+    <name>BECK WIA 541</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.024683022439746</gpxx:lat>
+      <gpxx:lon>-95.443015706029584</gpxx:lon>
+      <gpxx:y_proj>5210802.6674942942</gpxx:y_proj>
+      <gpxx:x_proj>314358.40478010947</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.720089905529584" lon="-96.143149648898685">
+    <name>STEV WIA 360</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.720089905529584</gpxx:lat>
+      <gpxx:lon>-96.143149648898685</gpxx:lon>
+      <gpxx:y_proj>5067753.2154417401</gpxx:y_proj>
+      <gpxx:x_proj>255397.89609651454</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.606054225060205" lon="-95.804777885409891">
+    <name>STEV WIA 207</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.606054225060205</gpxx:lat>
+      <gpxx:lon>-95.804777885409891</gpxx:lon>
+      <gpxx:y_proj>5054104.7515624007</gpxx:y_proj>
+      <gpxx:x_proj>281285.80629495613</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.574110285786197" lon="-95.139598294536469">
+    <name>REDW WIA 607</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.574110285786197</gpxx:lat>
+      <gpxx:lon>-95.139598294536469</gpxx:lon>
+      <gpxx:y_proj>4937866.9891019091</gpxx:y_proj>
+      <gpxx:x_proj>330122.33045323554</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.076079333244941" lon="-95.998985658599082">
+    <name>MURR WIA 622</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.076079333244941</gpxx:lat>
+      <gpxx:lon>-95.998985658599082</gpxx:lon>
+      <gpxx:y_proj>4884695.7097242326</gpxx:y_proj>
+      <gpxx:x_proj>259863.38839891707</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.192709186604574" lon="-95.95829322924547">
+    <name>MURR WIA 347</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.192709186604574</gpxx:lat>
+      <gpxx:lon>-95.95829322924547</gpxx:lon>
+      <gpxx:y_proj>4897532.4338487107</gpxx:y_proj>
+      <gpxx:x_proj>263588.02556639991</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.266212953881848" lon="-96.148967671422056">
+    <name>LINC WIA 217</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.266212953881848</gpxx:lat>
+      <gpxx:lon>-96.148967671422056</gpxx:lon>
+      <gpxx:y_proj>4906263.6653531138</gpxx:y_proj>
+      <gpxx:x_proj>248663.12499732873</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.409425288737651" lon="-96.359243144385502">
+    <name>WILK WIA 619</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.409425288737651</gpxx:lat>
+      <gpxx:lon>-96.359243144385502</gpxx:lon>
+      <gpxx:y_proj>5145023.0591366459</gpxx:y_proj>
+      <gpxx:x_proj>241818.99265765911</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.164286582809055" lon="-95.207142166258706">
+    <name>COTT WIA 249</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.164286582809055</gpxx:lat>
+      <gpxx:lon>-95.207142166258706</gpxx:lon>
+      <gpxx:y_proj>4892487.875063627</gpxx:y_proj>
+      <gpxx:x_proj>323532.63151918043</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.974734866650856" lon="-95.537649409620215">
+    <name>MURR WIA 160</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.974734866650856</gpxx:lat>
+      <gpxx:lon>-95.537649409620215</gpxx:lon>
+      <gpxx:y_proj>4872196.6078475835</gpxx:y_proj>
+      <gpxx:x_proj>296458.0433700537</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.976656996784328" lon="-95.983718538414081">
+    <name>LACQ WIA 125</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.976656996784328</gpxx:lat>
+      <gpxx:lon>-95.983718538414081</gpxx:lon>
+      <gpxx:y_proj>4984688.0747695388</gpxx:y_proj>
+      <gpxx:x_proj>264742.27958142909</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.611871925889552" lon="-96.424486430736707">
+    <name>LINC WIA 211</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.611871925889552</gpxx:lat>
+      <gpxx:lon>-96.424486430736707</gpxx:lon>
+      <gpxx:y_proj>4945541.1110952487</gpxx:y_proj>
+      <gpxx:x_proj>228280.37963268941</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.827673920872691" lon="-95.227337416181143">
+    <name>DOUG WIA 291</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.827673920872691</gpxx:lat>
+      <gpxx:lon>-95.227337416181143</gpxx:lon>
+      <gpxx:y_proj>5077312.7259775205</gpxx:y_proj>
+      <gpxx:x_proj>326999.3028495856</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.969076102383632" lon="-96.17350662415879">
+    <name>LACQ WIA 195</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.969076102383632</gpxx:lat>
+      <gpxx:lon>-96.17350662415879</gpxx:lon>
+      <gpxx:y_proj>4984414.8115424309</gpxx:y_proj>
+      <gpxx:x_proj>249744.96587601898</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.896700913336957" lon="-96.284952052400641">
+    <name>LACQ WIA 608</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.896700913336957</gpxx:lat>
+      <gpxx:lon>-96.284952052400641</gpxx:lon>
+      <gpxx:y_proj>4976725.3255698569</gpxx:y_proj>
+      <gpxx:x_proj>240630.69107203771</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.17842461555373" lon="-96.055640077461035">
+    <name>MURR WIA 150</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.17842461555373</gpxx:lat>
+      <gpxx:lon>-96.055640077461035</gpxx:lon>
+      <gpxx:y_proj>4896230.6314108921</gpxx:y_proj>
+      <gpxx:x_proj>255749.28778731645</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.58562409706137" lon="-96.391356386903837">
+    <name>LINC WIA 190</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.58562409706137</gpxx:lat>
+      <gpxx:lon>-96.391356386903837</gpxx:lon>
+      <gpxx:y_proj>4942515.4989657411</gpxx:y_proj>
+      <gpxx:x_proj>230787.85180874262</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.222203401324656" lon="-96.449505375436885">
+    <name>LINC WIA 596</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.222203401324656</gpxx:lat>
+      <gpxx:lon>-96.449505375436885</gpxx:lon>
+      <gpxx:y_proj>4902340.3924947465</gpxx:y_proj>
+      <gpxx:x_proj>224469.12979826319</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.032624141449659" lon="-95.836291664999933">
+    <name>MURR WIA 135</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.032624141449659</gpxx:lat>
+      <gpxx:lon>-95.836291664999933</gpxx:lon>
+      <gpxx:y_proj>4879407.1161614405</gpxx:y_proj>
+      <gpxx:x_proj>272724.83977044671</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.6908557517839" lon="-96.114956021731743">
+    <name>STEV WIA 215</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.6908557517839</gpxx:lat>
+      <gpxx:lon>-96.114956021731743</gpxx:lon>
+      <gpxx:y_proj>5064419.51429787</gpxx:y_proj>
+      <gpxx:x_proj>257465.38750543335</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.720404845726264" lon="-96.14844083051787">
+    <name>STEV WIA 212</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.720404845726264</gpxx:lat>
+      <gpxx:lon>-96.14844083051787</gpxx:lon>
+      <gpxx:y_proj>5067804.4061208712</gpxx:y_proj>
+      <gpxx:x_proj>254987.51967826951</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.172404408211172" lon="-96.154254847011501">
+    <name>PIPE WIA 226</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.172404408211172</gpxx:lat>
+      <gpxx:lon>-96.154254847011501</gpxx:lon>
+      <gpxx:y_proj>4895859.9294704963</gpxx:y_proj>
+      <gpxx:x_proj>247840.6458555311</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.364912211220101" lon="-94.777298370336425">
+    <name>KAND WIA 378</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.364912211220101</gpxx:lat>
+      <gpxx:lon>-94.777298370336425</gpxx:lon>
+      <gpxx:y_proj>5025024.3306034952</gpxx:y_proj>
+      <gpxx:x_proj>360814.57373909908</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.442842523412111" lon="-96.19516109874246">
+    <name>LINC WIA 222</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.442842523412111</gpxx:lat>
+      <gpxx:lon>-96.19516109874246</gpxx:lon>
+      <gpxx:y_proj>4926026.0851747179</gpxx:y_proj>
+      <gpxx:x_proj>245741.74975685825</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.383118526939477" lon="-96.226472502114973">
+    <name>LINC WIA 192</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.383118526939477</gpxx:lat>
+      <gpxx:lon>-96.226472502114973</gpxx:lon>
+      <gpxx:y_proj>4919489.8399218842</gpxx:y_proj>
+      <gpxx:x_proj>242988.3317344971</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.743962453113262" lon="-96.397159281993197">
+    <name>YELL WIA 612</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.743962453113262</gpxx:lat>
+      <gpxx:lon>-96.397159281993197</gpxx:lon>
+      <gpxx:y_proj>4960123.4108864553</gpxx:y_proj>
+      <gpxx:x_proj>231061.15205199888</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.821603323407309" lon="-96.345319332630879">
+    <name>LACQ WIA 262</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.821603323407309</gpxx:lat>
+      <gpxx:lon>-96.345319332630879</gpxx:lon>
+      <gpxx:y_proj>4968577.9383622222</gpxx:y_proj>
+      <gpxx:x_proj>235520.2881220557</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.559812090137179" lon="-96.436405354658007">
+    <name>WILK WIA 313</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.559812090137179</gpxx:lat>
+      <gpxx:lon>-96.436405354658007</gpxx:lon>
+      <gpxx:y_proj>5161986.958663783</gpxx:y_proj>
+      <gpxx:x_proj>236616.49287244369</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.171910701242112" lon="-94.796240241607606">
+    <name>BROW WIA 635</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.171910701242112</gpxx:lat>
+      <gpxx:lon>-94.796240241607606</gpxx:lon>
+      <gpxx:y_proj>4892534.7073183451</gpxx:y_proj>
+      <gpxx:x_proj>356404.40470922814</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.420913101691781" lon="-95.992651460227322">
+    <name>LYON WIA 616</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.420913101691781</gpxx:lat>
+      <gpxx:lon>-95.992651460227322</gpxx:lon>
+      <gpxx:y_proj>4922980.266448156</gpxx:y_proj>
+      <gpxx:x_proj>261767.85821358793</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.449930778266271" lon="-96.125291123199588">
+    <name>LINC WIA 213</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.449930778266271</gpxx:lat>
+      <gpxx:lon>-96.125291123199588</gpxx:lon>
+      <gpxx:y_proj>4926598.4953675447</gpxx:y_proj>
+      <gpxx:x_proj>251331.95542856594</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.308683160736805" lon="-96.368850738172824">
+    <name>LINC WIA 597</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.308683160736805</gpxx:lat>
+      <gpxx:lon>-96.368850738172824</gpxx:lon>
+      <gpxx:y_proj>4911678.7205296475</gpxx:y_proj>
+      <gpxx:x_proj>231306.3651597329</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.566015930359299" lon="-96.168021930808479">
+    <name>LINC WIA 178</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.566015930359299</gpxx:lat>
+      <gpxx:lon>-96.168021930808479</gpxx:lon>
+      <gpxx:y_proj>4939624.219180502</gpxx:y_proj>
+      <gpxx:x_proj>248432.2652727931</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.404797039599522" lon="-96.28718303002664">
+    <name>LINC WIA 245</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.404797039599522</gpxx:lat>
+      <gpxx:lon>-96.28718303002664</gpxx:lon>
+      <gpxx:y_proj>4922090.3655213695</gpxx:y_proj>
+      <gpxx:x_proj>238248.93222782432</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.440053933153351" lon="-96.421744516238547">
+    <name>LINC WIA 465</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.440053933153351</gpxx:lat>
+      <gpxx:lon>-96.421744516238547</gpxx:lon>
+      <gpxx:y_proj>4926446.1719818348</gpxx:y_proj>
+      <gpxx:x_proj>227697.71097590771</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.581143265788604" lon="-96.393889468280761">
+    <name>LINC WIA 188</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.581143265788604</gpxx:lat>
+      <gpxx:lon>-96.393889468280761</gpxx:lon>
+      <gpxx:y_proj>4942026.1265401756</gpxx:y_proj>
+      <gpxx:x_proj>230566.04696252913</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.491205417426059" lon="-96.081650527054137">
+    <name>LINC WIA 600</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.491205417426059</gpxx:lat>
+      <gpxx:lon>-96.081650527054137</gpxx:lon>
+      <gpxx:y_proj>4931051.4434303222</gpxx:y_proj>
+      <gpxx:x_proj>254977.27125740409</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.294673545384512" lon="-96.246358951415061">
+    <name>BIGS WIA 632</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.294673545384512</gpxx:lat>
+      <gpxx:lon>-96.246358951415061</gpxx:lon>
+      <gpxx:y_proj>5020812.8796292767</gpxx:y_proj>
+      <gpxx:x_proj>245454.02170267186</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.091784534184768" lon="-95.811408473351193">
+    <name>BECK WIA 302</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.091784534184768</gpxx:lat>
+      <gpxx:lon>-95.811408473351193</gpxx:lon>
+      <gpxx:y_proj>5219198.620598116</gpxx:y_proj>
+      <gpxx:x_proj>286634.13680596568</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.17749293330764" lon="-94.796157624380257">
+    <name>BROW WIA 634</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.17749293330764</gpxx:lat>
+      <gpxx:lon>-94.796157624380257</gpxx:lon>
+      <gpxx:y_proj>4893154.5973976869</gpxx:y_proj>
+      <gpxx:x_proj>356424.55877927772</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.646580726730633" lon="-96.47282251075859">
+    <name>CLAY WIA 576</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.646580726730633</gpxx:lat>
+      <gpxx:lon>-96.47282251075859</gpxx:lon>
+      <gpxx:y_proj>5171749.9263859782</gpxx:y_proj>
+      <gpxx:x_proj>234250.58687535409</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.64676994803397" lon="-96.478798697354406">
+    <name>CLAY WIA 575</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.64676994803397</gpxx:lat>
+      <gpxx:lon>-96.478798697354406</gpxx:lon>
+      <gpxx:y_proj>5171791.146440302</gpxx:y_proj>
+      <gpxx:x_proj>233794.23390184139</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.168224534658293" lon="-94.80143650398378">
+    <name>BROW WIA 170</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.168224534658293</gpxx:lat>
+      <gpxx:lon>-94.80143650398378</gpxx:lon>
+      <gpxx:y_proj>4892134.3653955003</gpxx:y_proj>
+      <gpxx:x_proj>355980.02487692743</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.419501088636544" lon="-96.210145416323883">
+    <name>LINC WIA 356</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.419501088636544</gpxx:lat>
+      <gpxx:lon>-96.210145416323883</gpxx:lon>
+      <gpxx:y_proj>4923480.041458779</gpxx:y_proj>
+      <gpxx:x_proj>244447.52814672922</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.215232760045559" lon="-94.323258512073451">
+    <name>MEEK WIA 717</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.215232760045559</gpxx:lat>
+      <gpxx:lon>-94.323258512073451</gpxx:lon>
+      <gpxx:y_proj>5007711.2431412349</gpxx:y_proj>
+      <gpxx:x_proj>396098.85613192152</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.663804830731202" lon="-96.063536384061592">
+    <name>OTTE WIA 534</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.663804830731202</gpxx:lat>
+      <gpxx:lon>-96.063536384061592</gpxx:lon>
+      <gpxx:y_proj>5172363.3427173132</gpxx:y_proj>
+      <gpxx:x_proj>265642.96979461453</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.692554699998631" lon="-96.139390957631278">
+    <name>YELL WIA 630</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.692554699998631</gpxx:lat>
+      <gpxx:lon>-96.139390957631278</gpxx:lon>
+      <gpxx:y_proj>4953592.541310518</gpxx:y_proj>
+      <gpxx:x_proj>251247.45693566118</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.177598006232635" lon="-96.507905189113842">
+    <name>WILK WIA 309</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.177598006232635</gpxx:lat>
+      <gpxx:lon>-96.507905189113842</gpxx:lon>
+      <gpxx:y_proj>5119762.7796151331</gpxx:y_proj>
+      <gpxx:x_proj>229252.55579384917</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.368513224757272" lon="-96.195607387612924">
+    <name>LINC WIA 439</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.368513224757272</gpxx:lat>
+      <gpxx:lon>-96.195607387612924</gpxx:lon>
+      <gpxx:y_proj>4917771.0156146204</gpxx:y_proj>
+      <gpxx:x_proj>245383.67502445236</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.533762090642789" lon="-96.396475012496751">
+    <name>WILK WIA 318</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.533762090642789</gpxx:lat>
+      <gpxx:lon>-96.396475012496751</gpxx:lon>
+      <gpxx:y_proj>5158959.9646190163</gpxx:y_proj>
+      <gpxx:x_proj>239552.06895829717</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.155718843493268" lon="-96.219747815834964">
+    <name>OTTE WIA 351</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.155718843493268</gpxx:lat>
+      <gpxx:lon>-96.219747815834964</gpxx:lon>
+      <gpxx:y_proj>5116388.8076705197</gpxx:y_proj>
+      <gpxx:x_proj>251393.55575900114</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.627400310096746" lon="-96.38130104349176">
+    <name>WILK WIA 368</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.627400310096746</gpxx:lat>
+      <gpxx:lon>-96.38130104349176</gpxx:lon>
+      <gpxx:y_proj>5169313.8793256748</gpxx:y_proj>
+      <gpxx:x_proj>241162.05157299165</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.155350908562689" lon="-96.140991543209765">
+    <name>PIPE WIA 358</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.155350908562689</gpxx:lat>
+      <gpxx:lon>-96.140991543209765</gpxx:lon>
+      <gpxx:y_proj>4893925.062938313</gpxx:y_proj>
+      <gpxx:x_proj>248828.56129452735</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.740028380868559" lon="-96.169216475282241">
+    <name>STEV WIA 418</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.740028380868559</gpxx:lat>
+      <gpxx:lon>-96.169216475282241</gpxx:lon>
+      <gpxx:y_proj>5070048.4088406526</gpxx:y_proj>
+      <gpxx:x_proj>253457.22811190435</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.276068121453754" lon="-96.228752626714936">
+    <name>OTTE WIA 354</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.276068121453754</gpxx:lat>
+      <gpxx:lon>-96.228752626714936</gpxx:lon>
+      <gpxx:y_proj>5129788.3055631202</gpxx:y_proj>
+      <gpxx:x_proj>251242.86585708306</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.494911677826202" lon="-96.346510006775858">
+    <name>WILK WIA 317</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.494911677826202</gpxx:lat>
+      <gpxx:lon>-96.346510006775858</gpxx:lon>
+      <gpxx:y_proj>5154479.6019189134</gpxx:y_proj>
+      <gpxx:x_proj>243200.11925388579</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.031905801952327" lon="-96.082760788739421">
+    <name>BECK WIA 272</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.031905801952327</gpxx:lat>
+      <gpxx:lon>-96.082760788739421</gpxx:lon>
+      <gpxx:y_proj>5213321.6218895707</gpxx:y_proj>
+      <gpxx:x_proj>265779.41461086989</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.060389290005617" lon="-95.85898303970427">
+    <name>BECK WIA 273</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.060389290005617</gpxx:lat>
+      <gpxx:lon>-95.85898303970427</gpxx:lon>
+      <gpxx:y_proj>5215841.0072242739</gpxx:y_proj>
+      <gpxx:x_proj>282896.19658851885</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.192727536175155" lon="-96.230352853297632">
+    <name>NORM WIA 602</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.192727536175155</gpxx:lat>
+      <gpxx:lon>-96.230352853297632</gpxx:lon>
+      <gpxx:y_proj>5231643.9165976485</gpxx:y_proj>
+      <gpxx:x_proj>255305.49533082428</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.719844292088176" lon="-96.135473448049339">
+    <name>STEV WIA 417</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.719844292088176</gpxx:lat>
+      <gpxx:lon>-96.135473448049339</gpxx:lon>
+      <gpxx:y_proj>5067702.4723460712</gpxx:y_proj>
+      <gpxx:x_proj>255994.18011197067</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.103817246146598" lon="-94.444096625092698">
+    <name>MEEK WIA 322</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.103817246146598</gpxx:lat>
+      <gpxx:lon>-94.444096625092698</gpxx:lon>
+      <gpxx:y_proj>4995496.7254824564</gpxx:y_proj>
+      <gpxx:x_proj>386389.45899103879</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.372801737662108" lon="-96.045429579702414">
+    <name>OTTE WIA 352</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.372801737662108</gpxx:lat>
+      <gpxx:lon>-96.045429579702414</gpxx:lon>
+      <gpxx:y_proj>5139976.5900812037</gpxx:y_proj>
+      <gpxx:x_proj>265779.87067404063</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.127022205480678" lon="-95.94259945228535">
+    <name>OTTE WIA 353</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.127022205480678</gpxx:lat>
+      <gpxx:lon>-95.94259945228535</gpxx:lon>
+      <gpxx:y_proj>5112369.742421167</gpxx:y_proj>
+      <gpxx:x_proj>272674.11350714258</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.483130203457108" lon="-94.833085168409099">
+    <name>BROW WIA 324</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.483130203457108</gpxx:lat>
+      <gpxx:lon>-94.833085168409099</gpxx:lon>
+      <gpxx:y_proj>4927168.625876856</gpxx:y_proj>
+      <gpxx:x_proj>354231.96800656279</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.493664019189481" lon="-94.865001061064874">
+    <name>BROW WIA 323</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.493664019189481</gpxx:lat>
+      <gpxx:lon>-94.865001061064874</gpxx:lon>
+      <gpxx:y_proj>4928396.1173443832</gpxx:y_proj>
+      <gpxx:x_proj>351720.66862719908</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.581777853773218" lon="-96.334840878418518">
+    <name>LINC WIA 328</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.581777853773218</gpxx:lat>
+      <gpxx:lon>-96.334840878418518</gpxx:lon>
+      <gpxx:y_proj>4941903.1797423614</gpxx:y_proj>
+      <gpxx:x_proj>235256.76923458351</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.448428959321639" lon="-96.501513855770384">
+    <name>WILK WIA 307</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.448428959321639</gpxx:lat>
+      <gpxx:lon>-96.501513855770384</gpxx:lon>
+      <gpxx:y_proj>5149831.2671170272</gpxx:y_proj>
+      <gpxx:x_proj>231077.24952152555</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.749323390049867" lon="-95.293854695514497">
+    <name>BECK WIA 373</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.749323390049867</gpxx:lat>
+      <gpxx:lon>-95.293854695514497</gpxx:lon>
+      <gpxx:y_proj>5179862.1619028524</gpxx:y_proj>
+      <gpxx:x_proj>324797.83254855592</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.284480554321327" lon="-94.659692090657458">
+    <name>BROW WIA 171</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.284480554321327</gpxx:lat>
+      <gpxx:lon>-94.659692090657458</gpxx:lon>
+      <gpxx:y_proj>4904808.7699055821</gpxx:y_proj>
+      <gpxx:x_proj>367573.22696834727</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.784991960780268" lon="-94.434667111067185">
+    <name>MCLE WIA 468</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.784991960780268</gpxx:lat>
+      <gpxx:lon>-94.434667111067185</gpxx:lon>
+      <gpxx:y_proj>4960066.3856707336</gpxx:y_proj>
+      <gpxx:x_proj>386504.69725815981</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.384209380665119" lon="-96.389400196608108">
+    <name>LINC WIA 426</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.384209380665119</gpxx:lat>
+      <gpxx:lon>-96.389400196608108</gpxx:lon>
+      <gpxx:y_proj>4920135.7107499596</gpxx:y_proj>
+      <gpxx:x_proj>230014.63293990606</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.839531361574622" lon="-94.225548035863">
+    <name>MCLE WIA 424</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.839531361574622</gpxx:lat>
+      <gpxx:lon>-94.225548035863</gpxx:lon>
+      <gpxx:y_proj>4965854.2398640579</gpxx:y_proj>
+      <gpxx:x_proj>403139.38874999137</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.582467708593619" lon="-96.387591897648107">
+    <name>WILK WIA 420</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.582467708593619</gpxx:lat>
+      <gpxx:lon>-96.387591897648107</gpxx:lon>
+      <gpxx:y_proj>5164342.2129819691</gpxx:y_proj>
+      <gpxx:x_proj>240465.78517284599</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.731077429576615" lon="-96.218500577683088">
+    <name>YELL WIA 526</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.731077429576615</gpxx:lat>
+      <gpxx:lon>-96.218500577683088</gpxx:lon>
+      <gpxx:y_proj>4958116.6396638425</gpxx:y_proj>
+      <gpxx:x_proj>245148.339158558</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.301496780167405" lon="-95.942892566449274">
+    <name>LYON WIA 456</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.301496780167405</gpxx:lat>
+      <gpxx:lon>-95.942892566449274</gpxx:lon>
+      <gpxx:y_proj>4909571.9705293393</gpxx:y_proj>
+      <gpxx:x_proj>265252.25542434352</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.033598513039585" lon="-96.179628519157305">
+    <name>PIPE WIA 179</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.033598513039585</gpxx:lat>
+      <gpxx:lon>-96.179628519157305</gpxx:lon>
+      <gpxx:y_proj>4880520.2294129441</gpxx:y_proj>
+      <gpxx:x_proj>245216.06002852786</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.159582081753733" lon="-94.895418462842855">
+    <name>BROW WIA 173</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.159582081753733</gpxx:lat>
+      <gpxx:lon>-94.895418462842855</gpxx:lon>
+      <gpxx:y_proj>4891343.3796739634</gpxx:y_proj>
+      <gpxx:x_proj>348444.1759218052</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.778310754985498" lon="-96.11010808029981">
+    <name>YELL WIA 522</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.778310754985498</gpxx:lat>
+      <gpxx:lon>-96.11010808029981</gpxx:lon>
+      <gpxx:y_proj>4963029.5647234805</gpxx:y_proj>
+      <gpxx:x_proj>253932.05190134252</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.223340569908018" lon="-95.781274427190979">
+    <name>LYON WIA 197</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.223340569908018</gpxx:lat>
+      <gpxx:lon>-95.781274427190979</gpxx:lon>
+      <gpxx:y_proj>4900440.4887755774</gpxx:y_proj>
+      <gpxx:x_proj>277850.10369281983</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.597891367368447" lon="-96.006949531844953">
+    <name>LYON WIA 691</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.597891367368447</gpxx:lat>
+      <gpxx:lon>-96.006949531844953</gpxx:lon>
+      <gpxx:y_proj>4942680.8513124892</gpxx:y_proj>
+      <gpxx:x_proj>261353.55491820435</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.193681939021509" lon="-96.096513876594329">
+    <name>SWIF WIA 699</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.193681939021509</gpxx:lat>
+      <gpxx:lon>-96.096513876594329</gpxx:lon>
+      <gpxx:y_proj>5009130.9408204053</gpxx:y_proj>
+      <gpxx:x_proj>256772.25211927958</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.648856061215618" lon="-96.458154396671716">
+    <name>CLAY WIA 723</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.648856061215618</gpxx:lat>
+      <gpxx:lon>-96.458154396671716</gpxx:lon>
+      <gpxx:y_proj>5171953.3118728325</gpxx:y_proj>
+      <gpxx:x_proj>235384.06238271389</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.798101546928997" lon="-96.405076585820396">
+    <name>CLAY WIA 409</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.798101546928997</gpxx:lat>
+      <gpxx:lon>-96.405076585820396</gpxx:lon>
+      <gpxx:y_proj>5188358.7838512193</gpxx:y_proj>
+      <gpxx:x_proj>240163.62386920518</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.909200197910351" lon="-96.481691641741477">
+    <name>CLAY WIA 337</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.909200197910351</gpxx:lat>
+      <gpxx:lon>-96.481691641741477</gpxx:lon>
+      <gpxx:y_proj>5200959.4053252339</gpxx:y_proj>
+      <gpxx:x_proj>234865.64467580151</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.120396726509256" lon="-96.724554283025739">
+    <name>CLAY WIA 340</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.120396726509256</gpxx:lat>
+      <gpxx:lon>-96.724554283025739</gpxx:lon>
+      <gpxx:y_proj>5225275.8843225045</gpxx:y_proj>
+      <gpxx:x_proj>217490.51766893166</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.355851706779639" lon="-95.961875256409868">
+    <name>MAHN WIA 335</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.355851706779639</gpxx:lat>
+      <gpxx:lon>-95.961875256409868</gpxx:lon>
+      <gpxx:y_proj>5248963.3099016463</gpxx:y_proj>
+      <gpxx:x_proj>276329.86196338723</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.100743693926184" lon="-94.918096476769449">
+    <name>KAND WIA 304</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.100743693926184</gpxx:lat>
+      <gpxx:lon>-94.918096476769449</gpxx:lon>
+      <gpxx:y_proj>4995930.5888637425</gpxx:y_proj>
+      <gpxx:x_proj>349090.48698927398</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.231525198860588" lon="-95.80968552279441">
+    <name>LYON WIA 350</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.231525198860588</gpxx:lat>
+      <gpxx:lon>-95.80968552279441</gpxx:lon>
+      <gpxx:y_proj>4901426.8901169915</gpxx:y_proj>
+      <gpxx:x_proj>275611.87630286807</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.409334912695385" lon="-94.978621827510025">
+    <name>KAND WIA 370</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.409334912695385</gpxx:lat>
+      <gpxx:lon>-94.978621827510025</gpxx:lon>
+      <gpxx:y_proj>5030327.2882997217</gpxx:y_proj>
+      <gpxx:x_proj>345169.715727815</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.07491767741768" lon="-96.327579878438755">
+    <name>CLAY WIA 338</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.07491767741768</gpxx:lat>
+      <gpxx:lon>-96.327579878438755</gpxx:lon>
+      <gpxx:y_proj>5218862.9887640029</gpxx:y_proj>
+      <gpxx:x_proj>247383.4365842276</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.705562672094885" lon="-96.228326646272095">
+    <name>STEV WIA 683</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.705562672094885</gpxx:lat>
+      <gpxx:lon>-96.228326646272095</gpxx:lon>
+      <gpxx:y_proj>5066403.4150213785</gpxx:y_proj>
+      <gpxx:x_proj>248704.34957908111</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.411704511213486" lon="-96.10854626771139">
+    <name>LINC WIA 672</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.411704511213486</gpxx:lat>
+      <gpxx:lon>-96.10854626771139</gpxx:lon>
+      <gpxx:y_proj>4922301.5290147811</gpxx:y_proj>
+      <gpxx:x_proj>252502.88112085959</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.032556993200181" lon="-95.865797446360816">
+    <name>GRAN WIA 677</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.032556993200181</gpxx:lat>
+      <gpxx:lon>-95.865797446360816</gpxx:lon>
+      <gpxx:y_proj>5101657.3680773992</gpxx:y_proj>
+      <gpxx:x_proj>278228.70847568201</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.836132127704545" lon="-93.934134228465652">
+    <name>FARI WIA 734</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.836132127704545</gpxx:lat>
+      <gpxx:lon>-93.934134228465652</gpxx:lon>
+      <gpxx:y_proj>4854095.8131373692</gpxx:y_proj>
+      <gpxx:x_proj>424901.26322377427</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.856804130789939" lon="-96.190136927933395">
+    <name>GRAN WIA 476</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.856804130789939</gpxx:lat>
+      <gpxx:lon>-96.190136927933395</gpxx:lon>
+      <gpxx:y_proj>5083086.7383665415</gpxx:y_proj>
+      <gpxx:x_proj>252348.18546546777</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.605804046062417" lon="-92.686396020367184">
+    <name>MOWE WIA 593</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.605804046062417</gpxx:lat>
+      <gpxx:lon>-92.686396020367184</gpxx:lon>
+      <gpxx:y_proj>4828138.7815260412</gpxx:y_proj>
+      <gpxx:x_proj>525309.38509049895</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.960365278464707" lon="-96.10863575967791">
+    <name>BECK WIA 545</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.960365278464707</gpxx:lat>
+      <gpxx:lon>-96.10863575967791</gpxx:lon>
+      <gpxx:y_proj>5205450.1907783123</gpxx:y_proj>
+      <gpxx:x_proj>263497.90926912776</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.147152422325426" lon="-93.762591694027449">
+    <name>WASE WIA 405</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.147152422325426</gpxx:lat>
+      <gpxx:lon>-93.762591694027449</gpxx:lon>
+      <gpxx:y_proj>4888498.7691622125</gpxx:y_proj>
+      <gpxx:x_proj>439011.75014657673</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.15520307660492" lon="-95.157758101114069">
+    <name>OTTE WIA 504</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.15520307660492</gpxx:lat>
+      <gpxx:lon>-95.157758101114069</gpxx:lon>
+      <gpxx:y_proj>5113554.1353954775</gpxx:y_proj>
+      <gpxx:x_proj>333389.71763330314</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.361316396121971" lon="-93.571093360419638">
+    <name>LESU WIA 599</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.361316396121971</gpxx:lat>
+      <gpxx:lon>-93.571093360419638</gpxx:lon>
+      <gpxx:y_proj>4912162.4259496601</gpxx:y_proj>
+      <gpxx:x_proj>454492.45903379045</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.767977955187121" lon="-92.596652707238462">
+    <name>MOWE WIA 588</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.767977955187121</gpxx:lat>
+      <gpxx:lon>-92.596652707238462</gpxx:lon>
+      <gpxx:y_proj>4846181.360991749</gpxx:y_proj>
+      <gpxx:x_proj>532464.36662119906</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.038776286620283" lon="-94.641688447869242">
+    <name>WATO WIA 581</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.038776286620283</gpxx:lat>
+      <gpxx:lon>-94.641688447869242</gpxx:lon>
+      <gpxx:y_proj>4877488.9167472972</gpxx:y_proj>
+      <gpxx:x_proj>368464.82207735814</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.706974967049412" lon="-96.260968329988557">
+    <name>YELL WIA 628</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.706974967049412</gpxx:lat>
+      <gpxx:lon>-96.260968329988557</gpxx:lon>
+      <gpxx:y_proj>4955573.2118407078</gpxx:y_proj>
+      <gpxx:x_proj>241678.21810075609</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.772666312826871" lon="-96.329889885835996">
+    <name>YELL WIA 521</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.772666312826871</gpxx:lat>
+      <gpxx:lon>-96.329889885835996</gpxx:lon>
+      <gpxx:y_proj>4963091.6316860896</gpxx:y_proj>
+      <gpxx:x_proj>236517.28626289827</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.635090508807849" lon="-96.347098741795563">
+    <name>YELL WIA 529</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.635090508807849</gpxx:lat>
+      <gpxx:lon>-96.347098741795563</gpxx:lon>
+      <gpxx:y_proj>4947865.1541161193</gpxx:y_proj>
+      <gpxx:x_proj>234526.86314147222</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.567606646339584" lon="-96.71123461104682">
+    <name>WILK WIA 421</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.567606646339584</gpxx:lat>
+      <gpxx:lon>-96.71123461104682</gpxx:lon>
+      <gpxx:y_proj>5163808.1552513875</gpxx:y_proj>
+      <gpxx:x_proj>215594.4649719352</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.142024328349933" lon="-94.587404624230274">
+    <name>MEEK WIA 513</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.142024328349933</gpxx:lat>
+      <gpxx:lon>-94.587404624230274</gpxx:lon>
+      <gpxx:y_proj>4999952.4700775184</gpxx:y_proj>
+      <gpxx:x_proj>375198.37288476183</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.516240069667951" lon="-95.704125416724011">
+    <name>NOBL WIA 535</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.516240069667951</gpxx:lat>
+      <gpxx:lon>-95.704125416724011</gpxx:lon>
+      <gpxx:y_proj>4821696.7441248484</gpxx:y_proj>
+      <gpxx:x_proj>281441.70464390039</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.045530548822732" lon="-93.44149203001092">
+    <name>WASE WIA 430</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.045530548822732</gpxx:lat>
+      <gpxx:lon>-93.44149203001092</gpxx:lon>
+      <gpxx:y_proj>4877023.7006453425</gpxx:y_proj>
+      <gpxx:x_proj>464631.43655823555</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.069347919402723" lon="-94.806683162109209">
+    <name>TODD WIA 467</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.069347919402723</gpxx:lat>
+      <gpxx:lon>-94.806683162109209</gpxx:lon>
+      <gpxx:y_proj>5103338.376592448</gpxx:y_proj>
+      <gpxx:x_proj>360280.66265413072</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.249329020963536" lon="-95.150875710791865">
+    <name>REDW WIA 591</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.249329020963536</gpxx:lat>
+      <gpxx:lon>-95.150875710791865</gpxx:lon>
+      <gpxx:y_proj>4901814.6268159887</gpxx:y_proj>
+      <gpxx:x_proj>328278.74017330288</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.189366265752113" lon="-95.924669576158379">
+    <name>SWIF WIA 432</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.189366265752113</gpxx:lat>
+      <gpxx:lon>-95.924669576158379</gpxx:lon>
+      <gpxx:y_proj>5008147.8330599871</gpxx:y_proj>
+      <gpxx:x_proj>270253.0160088737</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.503759214001718" lon="-96.603058862333498">
+    <name>WILK WIA 412</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.503759214001718</gpxx:lat>
+      <gpxx:lon>-96.603058862333498</gpxx:lon>
+      <gpxx:y_proj>5156329.5950057451</gpxx:y_proj>
+      <gpxx:x_proj>223559.57599001174</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.303301051210333" lon="-94.328090734301881">
+    <name>STEA WIA 427</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.303301051210333</gpxx:lat>
+      <gpxx:lon>-94.328090734301881</gpxx:lon>
+      <gpxx:y_proj>5017501.1708024107</gpxx:y_proj>
+      <gpxx:x_proj>395880.54419898504</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.430909950904919" lon="-94.911869142413821">
+    <name>STEA WIA 627</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.430909950904919</gpxx:lat>
+      <gpxx:lon>-94.911869142413821</gpxx:lon>
+      <gpxx:y_proj>5032597.8188795932</gpxx:y_proj>
+      <gpxx:x_proj>350450.20191441034</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.818377428963011" lon="-96.229328751832853">
+    <name>LACQ WIA 696</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.818377428963011</gpxx:lat>
+      <gpxx:lon>-96.229328751832853</gpxx:lon>
+      <gpxx:y_proj>4967848.3028131044</gpxx:y_proj>
+      <gpxx:x_proj>244676.29788795015</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.968909970707493" lon="-95.15801418828346">
+    <name>DOUG WIA 461</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.968909970707493</gpxx:lat>
+      <gpxx:lon>-95.15801418828346</gpxx:lon>
+      <gpxx:y_proj>5092856.5348982392</gpxx:y_proj>
+      <gpxx:x_proj>332808.30569330015</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.87346179002482" lon="-95.518048672118226">
+    <name>CHIP WIA 216</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.87346179002482</gpxx:lat>
+      <gpxx:lon>-95.518048672118226</gpxx:lon>
+      <gpxx:y_proj>4971977.5205803728</gpxx:y_proj>
+      <gpxx:x_proj>301103.15634057939</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.168833632127416" lon="-94.308775749368124">
+    <name>MEEK WIA 675</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.168833632127416</gpxx:lat>
+      <gpxx:lon>-94.308775749368124</gpxx:lon>
+      <gpxx:y_proj>5002538.179874693</gpxx:y_proj>
+      <gpxx:x_proj>397152.48653114395</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.002849813346536" lon="-95.165126773742344">
+    <name>DOUG WIA 647</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.002849813346536</gpxx:lat>
+      <gpxx:lon>-95.165126773742344</gpxx:lon>
+      <gpxx:y_proj>5096642.3383786837</gpxx:y_proj>
+      <gpxx:x_proj>332359.79325870791</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.980511750226441" lon="-95.201095075017221">
+    <name>DOUG WIA 648</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.980511750226441</gpxx:lat>
+      <gpxx:lon>-95.201095075017221</gpxx:lon>
+      <gpxx:y_proj>5094236.8625582773</gpxx:y_proj>
+      <gpxx:x_proj>329506.28752317745</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.869908193689227" lon="-96.32207686155698">
+    <name>TRAV WIA 722</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.869908193689227</gpxx:lat>
+      <gpxx:lon>-96.32207686155698</gpxx:lon>
+      <gpxx:y_proj>5084960.7256897241</gpxx:y_proj>
+      <gpxx:x_proj>242166.58107519938</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.959815179848697" lon="-96.261199227878862">
+    <name>GRAN WIA 719</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.959815179848697</gpxx:lat>
+      <gpxx:lon>-96.261199227878862</gpxx:lon>
+      <gpxx:y_proj>5094754.3128882712</gpxx:y_proj>
+      <gpxx:x_proj>247300.10979418212</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.100897203568444" lon="-96.08880417218397">
+    <name>PIPE WIA 399</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.100897203568444</gpxx:lat>
+      <gpxx:lon>-96.08880417218397</gpxx:lon>
+      <gpxx:y_proj>4887718.3922144119</gpxx:y_proj>
+      <gpxx:x_proj>252774.6386410729</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.995225381206808" lon="-95.20801745465775">
+    <name>DOUG WIA 650</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.995225381206808</gpxx:lat>
+      <gpxx:lon>-95.20801745465775</gpxx:lon>
+      <gpxx:y_proj>5095886.4468395412</gpxx:y_proj>
+      <gpxx:x_proj>329015.42715002678</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.000564849091212" lon="-95.205904095781392">
+    <name>DOUG WIA 651</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.000564849091212</gpxx:lat>
+      <gpxx:lon>-95.205904095781392</gpxx:lon>
+      <gpxx:y_proj>5096475.146870276</gpxx:y_proj>
+      <gpxx:x_proj>329195.51653022546</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.727090268141993" lon="-96.384208035858464">
+    <name>YELL WIA 613</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.727090268141993</gpxx:lat>
+      <gpxx:lon>-96.384208035858464</gpxx:lon>
+      <gpxx:y_proj>4958206.4168119365</gpxx:y_proj>
+      <gpxx:x_proj>232008.45405316027</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.0134080528669" lon="-94.403276154630433">
+    <name>WATO WIA 639</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.0134080528669</gpxx:lat>
+      <gpxx:lon>-94.403276154630433</gpxx:lon>
+      <gpxx:y_proj>4874318.3463035459</gpxx:y_proj>
+      <gpxx:x_proj>387519.12721625896</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.983443359835157" lon="-94.824799763259733">
+    <name>KAND WIA 729</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.983443359835157</gpxx:lat>
+      <gpxx:lon>-94.824799763259733</gpxx:lon>
+      <gpxx:y_proj>4982730.0228399364</gpxx:y_proj>
+      <gpxx:x_proj>356137.01626839011</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.200707353362176" lon="-95.880557043878682">
+    <name>LYON WIA 131</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.200707353362176</gpxx:lat>
+      <gpxx:lon>-95.880557043878682</gpxx:lon>
+      <gpxx:y_proj>4898199.9872002536</gpxx:y_proj>
+      <gpxx:x_proj>269831.64565553231</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.626475586419616" lon="-96.058745894608549">
+    <name>LYON WIA 742</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.626475586419616</gpxx:lat>
+      <gpxx:lon>-96.058745894608549</gpxx:lon>
+      <gpxx:y_proj>4946008.9724975294</gpxx:y_proj>
+      <gpxx:x_proj>257361.83055303566</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.675818522464461" lon="-95.108534628250837">
+    <name>STEA WIA 743</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.675818522464461</gpxx:lat>
+      <gpxx:lon>-95.108534628250837</gpxx:lon>
+      <gpxx:y_proj>5060191.0290943617</gpxx:y_proj>
+      <gpxx:x_proj>335781.86220199859</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.675732770585519" lon="-95.116401424132832">
+    <name>STEA WIA 744</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.675732770585519</gpxx:lat>
+      <gpxx:lon>-95.116401424132832</gpxx:lon>
+      <gpxx:y_proj>5060197.6698658662</gpxx:y_proj>
+      <gpxx:x_proj>335168.92790541431</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.889785708788942" lon="-94.601945917965097">
+    <name>WATO WIA 741</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.889785708788942</gpxx:lat>
+      <gpxx:lon>-94.601945917965097</gpxx:lon>
+      <gpxx:y_proj>4860878.0501118852</gpxx:y_proj>
+      <gpxx:x_proj>371327.83514093113</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.292300224940831" lon="-95.945370234263507">
+    <name>LYON WIA 690</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.292300224940831</gpxx:lat>
+      <gpxx:lon>-95.945370234263507</gpxx:lon>
+      <gpxx:y_proj>4908557.5410879124</gpxx:y_proj>
+      <gpxx:x_proj>265017.90622779942</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.351310239407347" lon="-95.136056614062994">
+    <name>KAND WIA 726</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.351310239407347</gpxx:lat>
+      <gpxx:lon>-95.136056614062994</gpxx:lon>
+      <gpxx:y_proj>5024196.2651234698</gpxx:y_proj>
+      <gpxx:x_proj>332679.08241207304</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.29498658306462" lon="-96.371976346049038">
+    <name>LINC WIA 595</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.29498658306462</gpxx:lat>
+      <gpxx:lon>-96.371976346049038</gpxx:lon>
+      <gpxx:y_proj>4910167.5805491628</gpxx:y_proj>
+      <gpxx:x_proj>230994.45549046446</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.460271522928402" lon="-96.194863766248133">
+    <name>OTTE WIA 538</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.460271522928402</gpxx:lat>
+      <gpxx:lon>-96.194863766248133</gpxx:lon>
+      <gpxx:y_proj>5150148.5131640499</gpxx:y_proj>
+      <gpxx:x_proj>254680.55100777341</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.167359752018761" lon="-94.367014050660345">
+    <name>BLUE WIA 167S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.167359752018761</gpxx:lat>
+      <gpxx:lon>-94.367014050660345</gpxx:lon>
+      <gpxx:y_proj>4891369.0193015859</gpxx:y_proj>
+      <gpxx:x_proj>390709.70470110368</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.179640740921755" lon="-94.362540206006074">
+    <name>BLUE WIA 167N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.179640740921755</gpxx:lat>
+      <gpxx:lon>-94.362540206006074</gpxx:lon>
+      <gpxx:y_proj>4892727.1574191293</gpxx:y_proj>
+      <gpxx:x_proj>391089.99322813423</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.668012945890986" lon="-96.370370622143781">
+    <name>CLAY WIA 339S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.668012945890986</gpxx:lat>
+      <gpxx:lon>-96.370370622143781</gpxx:lon>
+      <gpxx:y_proj>5173790.415170176</gpxx:y_proj>
+      <gpxx:x_proj>242191.95715705311</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6777903782937" lon="-96.365639437477597">
+    <name>CLAY WIA 339N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.6777903782937</gpxx:lat>
+      <gpxx:lon>-96.365639437477597</gpxx:lon>
+      <gpxx:y_proj>5174861.2839031266</gpxx:y_proj>
+      <gpxx:x_proj>242600.30939553847</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.840267224600936" lon="-95.201514179785079">
+    <name>JACK WIA 176</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.840267224600936</gpxx:lat>
+      <gpxx:lon>-95.201514179785079</gpxx:lon>
+      <gpxx:y_proj>4856486.7188364537</gpxx:y_proj>
+      <gpxx:x_proj>323021.50342110457</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.313847371081614" lon="-94.822095765034902">
+    <name>KAND WIA 260W</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.313847371081614</gpxx:lat>
+      <gpxx:lon>-94.822095765034902</gpxx:lon>
+      <gpxx:y_proj>5019429.806871606</gpxx:y_proj>
+      <gpxx:x_proj>357177.99183725467</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.314432812258865" lon="-94.810656135923395">
+    <name>KAND WIA 260E</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.314432812258865</gpxx:lat>
+      <gpxx:lon>-94.810656135923395</gpxx:lon>
+      <gpxx:y_proj>5019474.6282464024</gpxx:y_proj>
+      <gpxx:x_proj>358076.13116359344</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.196678032790544" lon="-96.356878003220928">
+    <name>LACQ WIA 437E</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.196678032790544</gpxx:lat>
+      <gpxx:lon>-96.356878003220928</gpxx:lon>
+      <gpxx:y_proj>5010281.7995287916</gpxx:y_proj>
+      <gpxx:x_proj>236334.87541554612</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.381208189788786" lon="-96.218023558615229">
+    <name>LINC WIA 229S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.381208189788786</gpxx:lat>
+      <gpxx:lon>-96.218023558615229</gpxx:lon>
+      <gpxx:y_proj>4919251.1382967522</gpxx:y_proj>
+      <gpxx:x_proj>243653.02318156045</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.394856318957288" lon="-96.226808094977685">
+    <name>LINC WIA 229N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.394856318957288</gpxx:lat>
+      <gpxx:lon>-96.226808094977685</gpxx:lon>
+      <gpxx:y_proj>4920794.719795051</gpxx:y_proj>
+      <gpxx:x_proj>243013.01909842037</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.241823549170789" lon="-96.352813996482141">
+    <name>LINC WIA 532S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.241823549170789</gpxx:lat>
+      <gpxx:lon>-96.352813996482141</gpxx:lon>
+      <gpxx:y_proj>4904199.609244843</gpxx:y_proj>
+      <gpxx:x_proj>232281.72866818853</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.251075625950747" lon="-96.371296683894585">
+    <name>LINC WIA 532N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.251075625950747</gpxx:lat>
+      <gpxx:lon>-96.371296683894585</gpxx:lon>
+      <gpxx:y_proj>4905287.8011523094</gpxx:y_proj>
+      <gpxx:x_proj>230848.10003481296</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.082075027052312" lon="-95.996742591979981">
+    <name>MURR WIA 614S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.082075027052312</gpxx:lat>
+      <gpxx:lon>-95.996742591979981</gpxx:lon>
+      <gpxx:y_proj>4885355.1343891239</gpxx:y_proj>
+      <gpxx:x_proj>260067.2557166818</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.251830252852663" lon="-96.362527666391173">
+    <name>NORM WIA 567S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.251830252852663</gpxx:lat>
+      <gpxx:lon>-96.362527666391173</gpxx:lon>
+      <gpxx:y_proj>5238634.2067913711</gpxx:y_proj>
+      <gpxx:x_proj>245577.4973232364</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27160653211326" lon="-96.355745889208151">
+    <name>NORM WIA 567N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.27160653211326</gpxx:lat>
+      <gpxx:lon>-96.355745889208151</gpxx:lon>
+      <gpxx:y_proj>5240809.5625969255</gpxx:y_proj>
+      <gpxx:x_proj>246185.2257022339</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.561639941464279" lon="-96.377415755529256">
+    <name>WILK WIA 315S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.561639941464279</gpxx:lat>
+      <gpxx:lon>-96.377415755529256</gpxx:lon>
+      <gpxx:y_proj>5161994.6224786583</gpxx:y_proj>
+      <gpxx:x_proj>241146.18192259196</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.578850394925567" lon="-96.393126558355604">
+    <name>WILK WIA 315N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.578850394925567</gpxx:lat>
+      <gpxx:lon>-96.393126558355604</gpxx:lon>
+      <gpxx:y_proj>5163958.547596503</gpxx:y_proj>
+      <gpxx:x_proj>240024.47485699283</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="47.038965376214222" lon="-95.426746291628902">
+    <name>BECK WIA 542</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>47.038965376214222</gpxx:lat>
+      <gpxx:lon>-95.426746291628902</gpxx:lon>
+      <gpxx:y_proj>5212351.2615439612</gpxx:y_proj>
+      <gpxx:x_proj>315643.8648040875</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.375999340753481" lon="-96.187458940803054">
+    <name>LINC WIA 438</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.375999340753481</gpxx:lat>
+      <gpxx:lon>-96.187458940803054</gpxx:lon>
+      <gpxx:y_proj>4918577.2499076072</gpxx:y_proj>
+      <gpxx:x_proj>246065.31982041302</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.712983162882246" lon="-94.31664639833734">
+    <name>MART WIA 715</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.712983162882246</gpxx:lat>
+      <gpxx:lon>-94.31664639833734</gpxx:lon>
+      <gpxx:y_proj>4840836.7148406943</gpxx:y_proj>
+      <gpxx:x_proj>393931.6784378736</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.882209853729144" lon="-96.344618325097528">
+    <name>LACQ WIA 700</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.882209853729144</gpxx:lat>
+      <gpxx:lon>-96.344618325097528</gpxx:lon>
+      <gpxx:y_proj>4975308.1649505561</gpxx:y_proj>
+      <gpxx:x_proj>235853.20600393228</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.144354175167692" lon="-95.882803073056849">
+    <name>CHIP WIA 737</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.144354175167692</gpxx:lat>
+      <gpxx:lon>-95.882803073056849</gpxx:lon>
+      <gpxx:y_proj>5003029.096249613</gpxx:y_proj>
+      <gpxx:x_proj>273363.25456698908</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.908734692319619" lon="-96.345699937151949">
+    <name>LACQ WIA 436</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.908734692319619</gpxx:lat>
+      <gpxx:lon>-96.345699937151949</gpxx:lon>
+      <gpxx:y_proj>4978258.2295818329</gpxx:y_proj>
+      <gpxx:x_proj>235889.36391863233</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.228489785467033" lon="-96.101916949159516">
+    <name>LINC WIA 348</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.228489785467033</gpxx:lat>
+      <gpxx:lon>-96.101916949159516</gpxx:lon>
+      <gpxx:y_proj>4901930.3538369928</gpxx:y_proj>
+      <gpxx:x_proj>252260.17308901003</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.193610507724877" lon="-96.36671133159011">
+    <name>LACQ WIA 437W</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.193610507724877</gpxx:lat>
+      <gpxx:lon>-96.36671133159011</gpxx:lon>
+      <gpxx:y_proj>5009973.2193887504</gpxx:y_proj>
+      <gpxx:x_proj>235548.29941095444</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.655791743322027" lon="-95.765200493623325">
+    <name>YELL WIA 574</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.655791743322027</gpxx:lat>
+      <gpxx:lon>-95.765200493623325</gpxx:lon>
+      <gpxx:y_proj>4948433.3748038625</gpxx:y_proj>
+      <gpxx:x_proj>280758.46554508107</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.463031179531818" lon="-95.306475673755671">
+    <name>REDW WIA 598</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.463031179531818</gpxx:lat>
+      <gpxx:lon>-95.306475673755671</gpxx:lon>
+      <gpxx:y_proj>4925889.3530807365</gpxx:y_proj>
+      <gpxx:x_proj>316524.1662934327</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="43.907979753233363" lon="-93.238675642328644">
+    <name>STEE WIA 413</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>43.907979753233363</gpxx:lat>
+      <gpxx:lon>-93.238675642328644</gpxx:lon>
+      <gpxx:y_proj>4861679.2460062467</gpxx:y_proj>
+      <gpxx:x_proj>480835.43762033799</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.49864640915758" lon="-96.3399176911567">
+    <name>LINC WIA 184</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.49864640915758</gpxx:lat>
+      <gpxx:lon>-96.3399176911567</gpxx:lon>
+      <gpxx:y_proj>4932685.3096791636</gpxx:y_proj>
+      <gpxx:x_proj>234475.73244410989</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.637800532211571" lon="-95.144867094803146">
+    <name>RENV WIA 579</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.637800532211571</gpxx:lat>
+      <gpxx:lon>-95.144867094803146</gpxx:lon>
+      <gpxx:y_proj>4944952.7344384799</gpxx:y_proj>
+      <gpxx:x_proj>329890.06667696952</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.971959444905231" lon="-95.079061213292803">
+    <name>TODD WIA 423</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.971959444905231</gpxx:lat>
+      <gpxx:lon>-95.079061213292803</gpxx:lon>
+      <gpxx:y_proj>5093032.6599971931</gpxx:y_proj>
+      <gpxx:x_proj>338933.94637153269</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.232315558721275" lon="-94.406856044085416">
+    <name>MEEK WIA 674S</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.232315558721275</gpxx:lat>
+      <gpxx:lon>-94.406856044085416</gpxx:lon>
+      <gpxx:y_proj>5009720.0140416725</gpxx:y_proj>
+      <gpxx:x_proj>389567.90329256066</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="45.248691717554031" lon="-94.412129000982659">
+    <name>MEEK WIA 674N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>45.248691717554031</gpxx:lat>
+      <gpxx:lon>-94.412129000982659</gpxx:lon>
+      <gpxx:y_proj>5011546.5010825861</gpxx:y_proj>
+      <gpxx:x_proj>389185.84187058691</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.091851819557782" lon="-95.996625876712528">
+    <name>MURR WIA 614N</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.091851819557782</gpxx:lat>
+      <gpxx:lon>-95.996625876712528</gpxx:lon>
+      <gpxx:y_proj>4886440.7462725127</gpxx:y_proj>
+      <gpxx:x_proj>260116.15307011211</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.853666304677866" lon="-96.407197346748646">
+    <name>LACQ WIA 642</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.853666304677866</gpxx:lat>
+      <gpxx:lon>-96.407197346748646</gpxx:lon>
+      <gpxx:y_proj>4972343.1108016847</gpxx:y_proj>
+      <gpxx:x_proj>230777.70550704229</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.666470917938661" lon="-96.194227483547195">
+    <name>YELL WIA 525NE</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.666470917938661</gpxx:lat>
+      <gpxx:lon>-96.194227483547195</gpxx:lon>
+      <gpxx:y_proj>4950864.1497805323</gpxx:y_proj>
+      <gpxx:x_proj>246788.67331276112</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.663516384604385" lon="-96.208366212036694">
+    <name>YELL WIA 525SW</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.663516384604385</gpxx:lat>
+      <gpxx:lon>-96.208366212036694</gpxx:lon>
+      <gpxx:y_proj>4950580.0205656942</gpxx:y_proj>
+      <gpxx:x_proj>245654.92482264136</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="44.288542389491333" lon="-94.656130083632306">
+    <name>BROW WIA 442</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>44.288542389491333</gpxx:lat>
+      <gpxx:lon>-94.656130083632306</gpxx:lon>
+      <gpxx:y_proj>4905254.1927952226</gpxx:y_proj>
+      <gpxx:x_proj>367866.55110068282</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="46.459291455777439" lon="-96.502359548632782">
+    <name>WILK WIA 644</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>46.459291455777439</gpxx:lat>
+      <gpxx:lon>-96.502359548632782</gpxx:lon>
+      <gpxx:y_proj>5151041.0284585254</gpxx:y_proj>
+      <gpxx:x_proj>231065.84240657595</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>
