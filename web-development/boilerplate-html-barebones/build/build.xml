@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!-- Ye Olde Build Script
+     Written by Joe Turner <joe@agavemountain.com>
+     Copyright (C) 2012 Joe Turner
+ -->
+<project name="boilerplate-html-build" default="usage" basedir="../">
+    
+    <!-- load property files.  This build script is not to be edited.  It was designed
+         to be reused over and over again in a variety of projects.  The website.properties
+         file contains all of the user editable configuration variables used throughout
+         this script.
+          -->
+    <property file="build/website.properties"/>
+    
+    <target name="clean" description="clean release directory.">
+        <echo message="cleaning: ${dir.release}" />
+        
+        <!-- Delete anything in the output directory. -->
+        <delete includeEmptyDirs="true">
+            <fileset dir="${dir.release}">
+                <include name="**/*" />
+            </fileset>
+        </delete>
+        
+        <!--  delete the release tarball (if exists). -->
+        <delete file="${dir.release}.tar.gz" />
+    </target>
+
+    <!-- Copy from the source directory to the output directory. -->
+    <target name="basic-copy">
+        <copy todir="${dir.release}">
+            <fileset dir="${dir.source}" includes="**"/>
+        </copy>
+    </target>
+    
+    <target name="debug" depends="basic-copy">
+        <echo message="building debug version..." />
+    </target>
+    
+    <target name="help" description="Kindly inform the developer about the proper usage commands.">
+        <echo message="====================================================================="/>
+        <echo message="Usage: ant [target], where valid targets are: "/>
+        <echo message=" "/>
+        <echo message="  help       - this message."/>
+        <echo message="  clean      - delete output files and clean up directories." />
+        <echo message="  debug      - build entire website, without compression or minification." />
+        <echo message="  release    - clean, and build a compressed, minified release build." />
+        <echo message=" "/>
+        <echo message="====================================================================="/>
+        <echo message="  website:   ${website.name}"/>
+        <echo message="  source :   ${dir.source}"/>
+        <echo message=" "/>
+    </target>
+</project>
