@@ -8,3 +8,5 @@ individual repositories.
 
 + **[cowsay](docker-examples/cowsay/)**: Simplest docker example ever.
 
+## [Ansible playbooks](ansible/README.md)
+
